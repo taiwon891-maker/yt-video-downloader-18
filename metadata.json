@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "A simple app to download videos from direct URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
